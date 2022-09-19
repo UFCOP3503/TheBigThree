@@ -1,0 +1,9 @@
+#include <iostream>
+#include "Employee.h"
+
+
+int main() {
+
+    Employee employee1("Laura", 10, 100000);
+
+}
